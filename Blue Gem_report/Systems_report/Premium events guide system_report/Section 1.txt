@@ -1,0 +1,30 @@
+This system will allow users to
+
+1. Sign up
+2. Buy credits
+3. Peruse different venues, artists and genres
+4. And at a fee see events relating to those criteria
+
+This money will go towards the curators of the guide information, giving you quality of service.
+
+
+
+
+The tables are
+
+Premium events guide system (PEGS) 
+
+1	PEGS Premium Content Searches	
+2	PEGS Premium Content Search Results - Events	
+3	PEGS Premium Content Search Results - Sets	
+4	PEGS Customer Credit People	
+5	PEGS Customer Credit Transactions	
+6	PEGS Customer Credit Procedures	
+7	PEGS Event Tracking Venues	
+8	PEGS Event Tracking Events	
+9	PEGS Event Tracking Sets	
+10	PEGS Event Tracking Artists	
+11	PEGS Event Tracking Genres	
+12	PEGS Event Tracking Types	
+13	PEGS Event Tracking Statuses	
+14	PEGS Event Tracking Scales
